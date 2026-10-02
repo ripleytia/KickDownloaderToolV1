@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/050505/8A2BE2?text=RIPLEYTIA+KICK+DOWNLOADER" alt="Ripleytia Kick Downloader Banner" />
+  <img src="banner.jpg" alt="Ripleytia Kick Downloader Banner" width="800" />
   
   # 🚀 Ripleytia Kick Downloader Pro
   **Kick.com'dan videoları, klipleri ve yayın tekrarlarını kalite kaybı olmadan, en hızlı şekilde indirebilmeniz için tasarlanmış profesyonel bir Windows masaüstü uygulaması.**
